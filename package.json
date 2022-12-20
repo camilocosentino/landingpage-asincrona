@@ -1,0 +1,26 @@
+{
+  "name": "landingpage-asincrona",
+  "version": "1.0.0",
+  "description": "Landing Page Utilizando API de Youtube\r En este proyecto practico los conocimientos de asincronismo y consumo de API que estuve incorporando.👍😊",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilocosentino/landingpage-asincrona.git"
+  },
+  "keywords": [],
+  "author": "Camilo Cosentino",
+  "license": "MIT",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "puppeteer": "^19.2.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/camilocosentino/landingpage-asincrona/issues"
+  },
+  "homepage": "https://github.com/camilocosentino/landingpage-asincrona#readme"
+}
